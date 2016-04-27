@@ -2,10 +2,10 @@
 $(document).ready(function()
 {
 	$('#home-slider').bjqs({
-		// height      : 360,
+		height      : 720,
 		// width       : 960,
 		keyboardnav: true,
-		// responsive  : true
+		responsive  : true
 	});
 	
 	$('#testimonial-slider').bjqs({
