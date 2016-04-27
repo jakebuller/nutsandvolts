@@ -5,7 +5,7 @@ $(document).ready(function()
 		// height      : 360,
 		// width       : 960,
 		keyboardnav: true,
-		responsive  : true
+		// responsive  : true
 	});
 	
 	$('#testimonial-slider').bjqs({
