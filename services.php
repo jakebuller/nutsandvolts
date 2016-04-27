@@ -31,11 +31,9 @@ require_once("header.php");
 				<div class="center">Electrical</div>	
 			</div>
 			<ul>
-				<li>"Save on Energy" programs</li>
 				<li>Safety upgrades</li>
-				<li>Maintenance Support and Emergency Breakdowns</li>
+				<li>Maintenance Support: Short and Long Term</li>
 				<li>Plant Relocation</li>
-				<li>Programming: PLC and Robot</li>
 				<li>CNC Repair</li>
 				<li>On-site Motor Diagnostics</li>
 				<li>Electric Motor Installation and Removal</li>
@@ -51,13 +49,10 @@ require_once("header.php");
 				<div class="center">Electric Motor Repair</div>	
 			</div>
 			<ul>
-				<li>Authorized Toshiba Distributor of Motors and Drives</li>
-				<li>Member of EASA</li>
 				<li>Electric Motor Rewinding</li>
-				<li>Electrical Repair</li>
 				<li>Mechanical Repair</li>
 				<li>Pump Repair</li>
-				<li>Specialty Tool and Power tool repair</li>
+				<li>Specialty Tool and Power Tool Repair</li>
 			</ul>			
 		</td>	
 	</tr>	
