@@ -3,7 +3,7 @@ $(document).ready(function()
 {
 	$('#home-slider').bjqs({
 		height      : 720,
-		// width       : 960,
+		width       : 960,
 		keyboardnav: true,
 		responsive  : true
 	});
