@@ -14,7 +14,7 @@ require_once("header.php");
 		<img src="images/slider-2.png">
 	  </li>
 	  <li>
-        <img src="images/slider-3.jpg>
+        <img src="images/slider-3.jpg">
       </li>
       <li>
         <img src="images/slider-4.jpg">
