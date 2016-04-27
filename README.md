@@ -1,2 +1,2 @@
 # nutsandvolts
-http://nutsandvolts.ca/contact.php
+http://nutsandvolts.ca/
