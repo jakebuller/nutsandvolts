@@ -8,7 +8,8 @@ require_once("header.php");
 
 	<ul class="bjqs">
 	  <li>
-			<img src="images/slider-1.png">							          </li>
+        <img src="images/slider-1.png">
+      </li>
 	  <li>
 		<img src="images/slider-2.png">
 	  </li>
@@ -16,11 +17,8 @@ require_once("header.php");
         <img src="images/slider-3.jpg>
       </li>
       <li>
-        <img src="images/slider-2.jpg">
+        <img src="images/slider-4.jpg">
       </li>
-	<!-- <li>
-		<img src="images/slider-3.png">          </li>-->
-	</ul>
 	<!-- End of home slider -->
 	</div>
 </div>
