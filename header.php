@@ -39,8 +39,13 @@
 		</div>-->
 		<div id="header2">
 			<div class="content">
-				<div id="logo2" onclick='window.location.href="index.php"'></div>				
-				<div id="callus"></div>		
+				<div id="logo2">
+				    <img id="logo-image" src="../images/logo.png" onclick='window.location.href="index.php"'/>
+                    <div id="location-info">
+                      Cambridge Ont. - Main Office / Flesherton Ont. - Branch
+                    </div>
+				</div>
+				<div id="callus"></div>
 			</div>
 		</div>
 		

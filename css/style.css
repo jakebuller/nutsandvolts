@@ -38,10 +38,24 @@ body
 #logo2
 {	
 	width: 600px;
-	height: 160px;
-	background: url("../images/logo2.jpg") left center no-repeat;
+	/*height: 120px;*/
 	cursor: pointer;
 	float: left;
+	overflow: hidden;
+}
+
+#location-info
+{
+	text-align: center;
+	color:#7c7979;
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: 10px;
+}
+
+#logo-image {
+	margin-top: 15px;
+	width: 600px;
 }
 
 #callus
@@ -620,7 +634,7 @@ m
 	padding-top: 0px;
 }
 
-.standout
+.standout, .standoud a
 {
 	text-align: center; 
 	font-size: 32px;
@@ -628,4 +642,5 @@ m
 	font-style:normal !important;
 	margin-top: 40px; 
 	margin-bottom: 0px;
+	text-decoration: none;
 }

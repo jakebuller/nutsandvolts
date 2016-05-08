@@ -18,7 +18,12 @@ require_once("header.php");
 </div>
 <div class="grey-section-wrapper">
 	<div class="grey content">	
-		<p class="standout">We pride ourselves on industry leadership re-invented as a non-traditional competitor</p>
+		<!--<p class="standout">We pride ourselves on industry leadership re-invented as a non-traditional competitor</p>-->
+		<p class="standout">
+		    Please feel free to call me anytime at <a class="standout" href="callto:519.212.5269">519.212.5269</a>
+		    </br>
+		    Or send me an email at <a class="standout" href="mailto:mike@nutsandvolts.ca">mike@nutsandvolts.ca</a>
+		    </p>
 		<div class="mission-wrapper">
 			<p class="grey-main">
 					&quot;A strategic alliance with Nuts and Volts Inc. as your back-up maintenance team will be 
