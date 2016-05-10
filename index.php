@@ -13,6 +13,9 @@ require_once("header.php");
       <li>
         <img src="images/slider-4.jpg">
       </li>
+      <li>
+          <img src="images/slider-5.png">
+      </li>
 	<!-- End of home slider -->
 	</div>
 </div>

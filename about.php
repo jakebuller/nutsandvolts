@@ -11,12 +11,12 @@ require_once("header.php");
 	<p class="about-text">
         Nuts and Volts Inc. is a multi-trade company started in 2001.
         Our focus is to provide industrial maintenance service on an as needed basis.
-        Our customer base includes automotive, oil and gas, manufacturing of all kinds, waste water treatment and industrial automation.
+        Our in depth experience is in the following industries: Automotive parts manufacturing, Oil and Gas, Waste water treatment facilities, Steel Processing, Solar, Aggregate, Farming and Industrial Automation.
 	</p>
 </div>
 
 	
-<div class="header">
+<div>
 	<div class="content">
 		<h1 class="center">Testimonials</h1>
 	</div>
