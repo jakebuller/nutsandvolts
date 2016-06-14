@@ -2,7 +2,7 @@
 		<div class="content">
           <table id="footer-menu">
             <tr>
-               	<td id="copyright-notice">&copy; Copyright 2014 Nuts and Volts Inc. - All rights reserved</td>
+               	<td id="copyright-notice">&copy; Copyright 2016 Nuts and Volts Inc. - All rights reserved</td>
            		<td class="footer-nav">
                     <div data="index.php"  class="footer-wrapper">
                         <div id="menu-home" class="footer-menu-icon"></div>
