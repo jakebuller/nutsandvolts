@@ -14,7 +14,16 @@ require_once("header.php");
         <img src="images/slider-4.jpg">
       </li>
       <li>
-          <img src="images/slider-5.png">
+        <img src="images/slider-5.png">
+      </li>
+      <li>
+        <img src="images/slider-6.png">
+      </li>
+      <li>
+        <img src="images/slider-7.png">
+      </li>
+      <li>
+        <img src="images/slider-8.png">
       </li>
 	<!-- End of home slider -->
 	</div>
