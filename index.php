@@ -8,6 +8,9 @@ require_once("header.php");
 
 	<ul class="bjqs">
 	  <li>
+        <img src="images/slider-9.png">
+      </li>
+	  <li>
         <img src="images/slider-3.jpg">
       </li>
       <li>
