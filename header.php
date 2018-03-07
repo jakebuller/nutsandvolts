@@ -88,6 +88,7 @@
                             </div>
                         </td>
                  		<td>
+                            <a href="mailto:mike@nutsandvolts.ca">
                         	<div data="contact.php" class="nav-wrapper
 							<?php								
 								if (strpos($page,'contact') !== false)
@@ -97,6 +98,7 @@
 	                        	<div id="menu-contact" class="nav-menu-icon"></div>
 	                            <div>Contact</div>
                             </div>
+                            </a>
                         </td>
                     </tr>
                  </table>
