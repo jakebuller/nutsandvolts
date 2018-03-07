@@ -42,7 +42,7 @@
 				<div id="logo2">
 				    <img id="logo-image" src="../images/logo.png" onclick='window.location.href="index.php"'/>
                     <div id="location-info">
-                      Cambridge Ont. - Main Office / Collingwood Ont. - Branch
+                      Cambridge Ont. - Main Office / Flesherton Ont. - Branch
                     </div>
 				</div>
 				<div id="callus"></div>
