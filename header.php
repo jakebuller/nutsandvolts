@@ -89,7 +89,7 @@
                         </td>
                  		<td>
                             <a href="mailto:mike@nutsandvolts.ca">
-                        	<div data="contact.php" class="nav-wrapper
+                        	<div class="nav-wrapper
 							<?php								
 								if (strpos($page,'contact') !== false)
 									echo " active";
