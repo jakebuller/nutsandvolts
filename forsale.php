@@ -8,7 +8,7 @@ require_once("header.php");
 
 <div id="testimonial-wrapper">
     <div class="content">
-        <div id="testimonial-slider">
+        <div id="for-sale-slider">
             <!-- Start of testimonial slider -->
             <ul class="bjqs">
                 <li>
