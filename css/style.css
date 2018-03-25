@@ -135,7 +135,6 @@ m
 {
 	width: 30px;
 	height: 30px;
-	background-size: 20px 20px;
 }
 
 #menu-home
@@ -161,6 +160,7 @@ m
 #menu-for-sale
 {
 	background: url("../images/forsale.png") center center no-repeat;
+	background-size: 20px 20px;
 }
 /** End nav menu */
 
