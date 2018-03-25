@@ -13,10 +13,4 @@ $(document).ready(function () {
         keyboardnav: true,
         responsive: true
     });
-
-    $('#for-sale-slider').bjqs({
-        keyboardnav: true,
-        responsive: true,
-        automatic: false
-    });
 });
