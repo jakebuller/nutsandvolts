@@ -6,7 +6,7 @@ require_once("header.php");
     <h1 class="center">For Sale</h1>
 </div>
 
-<div id="testimonial-wrapper">
+<div id="for-sale-wrapper">
     <div class="content" id="for-sale-image-container">
         <div>
             <img src="images/forsale/IMG_20160627_141552.jpg">
