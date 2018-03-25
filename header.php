@@ -113,7 +113,7 @@ $page = $_SERVER['REQUEST_URI'];
                         </a>
                     </td>
                     <td>
-                        <div class="nav-wrapper
+                        <div data="forsale.php" class="nav-wrapper
 							<?php
                         if (strpos($page, 'for-sale') !== false) {
                             echo " active";
@@ -121,7 +121,7 @@ $page = $_SERVER['REQUEST_URI'];
                         ?>
                             ">
                             <div id="menu-for-sale" class="nav-menu-icon"></div>
-                            <div>Contact</div>
+                            <div>For Sale</div>
                         </div>
                     </td>
                 </tr>
