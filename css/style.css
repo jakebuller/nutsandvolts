@@ -644,3 +644,9 @@ m
 	margin-bottom: 0px;
 	text-decoration: none;
 }
+
+#for-sale-image-container{
+	img{
+		max-width: 500px;
+	}
+}

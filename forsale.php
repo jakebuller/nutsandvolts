@@ -7,7 +7,7 @@ require_once("header.php");
 </div>
 
 <div id="testimonial-wrapper">
-    <div class="content">
+    <div class="content" id="for-sale-image-container">
         <div>
             <img src="images/forsale/IMG_20160627_141552.jpg">
         </div>
