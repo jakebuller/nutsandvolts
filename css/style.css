@@ -645,8 +645,6 @@ m
 	text-decoration: none;
 }
 
-#for-sale-image-container{
-	img{
-		max-width: 500px;
-	}
+#for-sale-image-container img{
+	max-width: 500px;
 }
