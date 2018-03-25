@@ -12,13 +12,28 @@ require_once("header.php");
             <!-- Start of testimonial slider -->
             <ul class="bjqs">
                 <li>
-                    <img src="images/testimonial1.jpg">
+                    <img src="images/forsale/IMG_20160627_141552.jpg">
                 </li>
                 <li>
-                    <img src="images/testimonial2.jpg">
+                    <img src="images/forsale/IMG_20160627_141601.jpg">
                 </li>
                 <li>
-                    <img src="images/testimonial3.jpg">
+                    <img src="images/forsale/IMG_20160627_141612.jpg">
+                </li>
+                <li>
+                    <img src="images/forsale/IMG_20160627_141751.jpg">
+                </li>
+                <li>
+                    <img src="images/forsale/IMG_20170407_133819.jpg">
+                </li>
+                <li>
+                    <img src="images/forsale/IMG_20170407_133843.jpg">
+                </li>
+                <li>
+                    <img src="images/forsale/IMG_20170407_133913.jpg">
+                </li>
+                <li>
+                    <img src="images/forsale/IMG_20170407_133944.jpg">
                 </li>
             </ul>
             <!-- End of testimonial slider -->
