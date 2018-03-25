@@ -7,7 +7,7 @@ require_once("header.php");
 </div>
 
 <div id="for-sale-wrapper">
-    <div>
+    <div class="centered-text">
         If you're interested in purchasing any of the items seen below please contact me <a href="mailto:mike@nutsandvolts.ca">here</a>
     </div>
     <div class="content" id="for-sale-image-container">
