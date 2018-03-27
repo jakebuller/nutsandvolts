@@ -30,9 +30,6 @@ require_once("header.php");
             <img src="images/forsale/IMG_20170407_133843.jpg">
         </div>
         <div>
-            <img src="images/forsale/IMG_20170407_133913.jpg">
-        </div>
-        <div>
             <img src="images/forsale/IMG_20170407_133944.jpg">
         </div>
     </div>
