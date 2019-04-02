@@ -38,8 +38,8 @@ require_once("header.php");
 	<div class="grey content">	
 		<div class="mission-wrapper">
 			<p class="grey-main">
-					&quot;A long time ago, things were more often fixed than replaced.  I was lucky enough to
-                    be an apprentice during this lost era.  Let my experience save you time and money.&quot;
+					&quot;We at Nuts and Volts Inc. have been solely dedicated to supporting Industrial Maintenance departments for 18 years.
+Our primary focus is Automated CNC production shops, our strength is troubleshooting quickly and making quality repairs to all makes and models.&quot;
 			</p>
 			<p class="grey-sub">
 				Mike Buller, President and Founder
